@@ -1,0 +1,14 @@
+---
+- !ruby/object:Game
+  guesses: 9
+  word: stencil
+  guessed:
+  - a
+  - e
+- !ruby/object:Game
+  guesses: 8
+  word: chichi
+  guessed:
+  - a
+  - e
+  - i
